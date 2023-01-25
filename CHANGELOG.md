@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.3] 2023-01-25
+### Changes
+
+- Auth Pages UX Changes  
+
 ## [1.0.2] 2023-01-25
 ### Changes
 
